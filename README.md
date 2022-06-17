@@ -1,1 +1,1 @@
-# curso basico  con html, css, js utilizando spring boot, jwt para pruebas
+# curso basico  con html, css, js utilizando spring boot, jwt para la generacion de token
